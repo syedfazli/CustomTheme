@@ -1,5 +1,5 @@
-name = Flatastic Theme
-description = Responsive Drupal 7 Theme by Arrowhitech JSC. 
+name = Custom Theme
+description = Responsive Drupal 7 Theme by Syed Fazli
 core = 7.x
 engine = phptemplate
 version = 1.0
