@@ -1,0 +1,66 @@
+/* Theme Setting */
+.form-item  {margin-top: 8px !important; margin-left: 10px !important;}
+
+.form-type-textfield input {width: 40% !important;}
+
+.fieldset-legend, .options_header {width: 100%;}
+
+.form-wrapper {min-height: 20px;}
+
+.fieldset-legend {cursor: pointer;}
+
+.plus {background-image: url('../images/plus.png');  background-repeat: no-repeat; height: 25px; float: right; width: 25px; margin-top: 8px; margin-right: 25px;}
+.minus {background-image: url('../images/minus.png');  background-repeat: no-repeat; height: 25px; float: right; width: 25px; margin-top: 8px; margin-right: 25px;}
+
+
+/* Setting Background */
+#edit-background-image .form-item {
+	float: left;
+	line-height: 40px;
+	width: 15%;
+}
+#edit-background-image label {
+	border: 1px solid transparent;
+	cursor: pointer;
+	display: inline-block;
+	height: 31px;
+	margin: 5px;
+	vertical-align: top;
+	width: 31px;
+	text-indent: -999em;
+}
+label[for=edit-background-image-item-1] {
+	background-image:url(../images/patterns/item-1.png)
+}
+label[for=edit-background-image-item-2] {
+	background-image:url(../images/patterns/item-2.png)
+}
+label[for=edit-background-image-item-3] {
+	background-image:url(../images/patterns/item-3.png)
+}
+label[for=edit-background-image-item-4] {
+	background-image:url(../images/patterns/item-4.png)
+}
+label[for=edit-background-image-item-5] {
+	background-image:url(../images/patterns/item-5.png)
+}
+label[for=edit-background-image-item-6] {
+	background-image:url(../images/patterns/item-6.png)
+}
+label[for=edit-background-image-item-7] {
+	background-image:url(../images/patterns/item-7.png)
+}
+label[for=edit-background-image-item-8] {
+	background-image:url(../images/patterns/item-8.png)
+}
+label[for=edit-background-image-item-9] {
+	background-image:url(../images/patterns/item-9.png)
+}
+label[for=edit-background-image-item-10] {
+	background-image:url(../images/patterns/item-10.png)
+}
+label[for=edit-background-image-item-11] {
+	background-image:url(../images/patterns/item-11.png)
+}
+label[for=edit-background-image-item-12] {
+	background-image:url(../images/patterns/item-12.png)
